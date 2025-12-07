@@ -97,7 +97,7 @@ Clean, professional UI design
 KPI cards for quick insight
 
 📷 Dashboard Preview
-
+![Dashboard Preview](dashboard.png)
 
 
 📂 Project Files Included
